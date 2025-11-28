@@ -108,7 +108,7 @@ You can run the notebooks to reproduce all scores and plots.
 
 ---
 
-## 📂 Repository Structure
+ 📂 Repository Structure
 
 A suggested structure for this repository:
 
