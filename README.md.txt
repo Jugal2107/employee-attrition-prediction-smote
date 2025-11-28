@@ -120,20 +120,12 @@ employee-attrition-prediction-smote/
 │
 ├── README.md                              # Project documentation (this file)
 ├── requirements.txt                       # Python dependencies
-│
-├── data/                                  # (Optional) Sample or small datasets
-│   ├── dataset1_sample.csv
-│   └── dataset2_sample.csv
-│
-└── results/                               # Plots, confusion matrices, etc.
-    ├── dataset1_confusion_matrix.png
-    ├── dataset2_confusion_matrix.png
-    └── feature_correlation_heatmap.png
+└── results
 
 ▶️ How to Run
 
 🔹 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/employee-attrition-prediction-smote.git
+git clone https://github.com/Jugal2107/employee-attrition-prediction-smote.git
 cd employee-attrition-prediction-smote
 
 🔹 2. (Optional) Create and activate a virtual environment
@@ -202,3 +194,4 @@ This repository demonstrates my ability to:
 - Experiment with multiple ML algorithms
 
 - Evaluate and interpret model results in a research context.
+
