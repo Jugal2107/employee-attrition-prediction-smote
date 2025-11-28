@@ -122,7 +122,10 @@ employee-attrition-prediction-smote/
 ├── requirements.txt                       # Python dependencies
 └── results
 
-▶️ How to Run
+
+
+
+## ▶️ How to Run
 
 🔹 1. Clone the repository
 git clone https://github.com/Jugal2107/employee-attrition-prediction-smote.git
@@ -139,7 +142,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 
-📦 Requirements
+## 📦 Requirements
 
 The project uses the following main libraries:
 
@@ -153,7 +156,7 @@ xgboost
 lightgbm
 
 
-🖼 Visualizations
+## 🖼 Visualizations
 
 The notebooks include visualizations such as:
 
@@ -163,7 +166,7 @@ Boxplots for numerical features
 
 Confusion matrix heatmaps for each model
 
-🔍 Key Findings
+## 🔍 Key Findings
 
 - SMOTE significantly improved recall for the minority (attrition = "Yes") class.
 
@@ -171,7 +174,7 @@ Confusion matrix heatmaps for each model
 
 - The two datasets showed slightly different behavior, but SMOTE consistently helped in handling imbalance.
 
-📚 Research Context
+## 📚 Research Context
 
 This project is part of my research work on:
 
