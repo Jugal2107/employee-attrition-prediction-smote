@@ -108,11 +108,10 @@ You can run the notebooks to reproduce all scores and plots.
 
 ---
 
-## 📂 Repository Structure
+📂 Repository Structure
 
 A suggested structure for this repository:
 
-```bash
 employee-attrition-prediction-smote/
 │
 ├── Employee_Attrition_Dataset1.ipynb      # Notebook for Dataset 1
@@ -121,6 +120,8 @@ employee-attrition-prediction-smote/
 ├── README.md                              # Project documentation (this file)
 ├── requirements.txt                       # Python dependencies
 └── results
+
+---
 
 ▶️ How to Run
 
@@ -194,4 +195,5 @@ This repository demonstrates my ability to:
 - Experiment with multiple ML algorithms
 
 - Evaluate and interpret model results in a research context.
+
 
